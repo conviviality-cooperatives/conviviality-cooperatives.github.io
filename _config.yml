@@ -34,6 +34,9 @@ remote_theme: hitchens-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  
+ignore_theme_config: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

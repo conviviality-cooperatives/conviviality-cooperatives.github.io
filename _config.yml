@@ -28,7 +28,7 @@ url: "http://conviviality-cooperatives.com" # the base hostname & protocol for y
 github_username:  conviviality-cooperatives
 
 # Build settings
-theme: hitchens-theme
+theme: minima
 plugins:
   - jekyll-feed
 

@@ -28,9 +28,12 @@ url: "http://conviviality-cooperatives.com" # the base hostname & protocol for y
 github_username:  conviviality-cooperatives
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: hitchens-theme
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

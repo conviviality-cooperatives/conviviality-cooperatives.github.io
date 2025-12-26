@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-*this faq was last updated on 2025-12-21*
+# 2025-12-21_About the Blog
+
+*this faq was last updated on 2025-12-21.*
+
+***
 
 **What is this blog about?**
+
  The experiences and perspectives of some folks in the Camberville cooperative housing community. We often get questions from friends and family members about our living arrangements: "What's it like living with so many roommates?," "How do chores work?," "Do y'all have some kind of contract?" While we are often happy to answer these questions verbally, there's only so much detail you can get into at a noisy house party or the occasional phone call with your parents. This blog is intended to a be a place where we can get into that detail.
 
 Some things that this blog is *not*:
@@ -16,7 +21,10 @@ Some things that this blog is *not*:
 
 This blog is very much a work-in-progress. The focus and the scope may change over time. If that happens, we will try to keep this FAQ updated accordingly.
 
+***
+
 **What do you mean by co-op?**
+
 For the purposes of this blog, we are particularly interested in urban housing cooperatives in the Boston area. A housing cooperative is a fuzzy term, to be sure, and we don't think we can give you any precise definition. Instead we will offer a few different factors. The more of these are present, the more likely it is to be a co-op.
 
 - *More than the usual number of housemates.* Eight housemates living together are more likely to be operating as a co-op than four and four housemates are more likely than just a couple. If you have thirty folks living together collaboratively, you are almost certainly a co-op.
@@ -29,16 +37,27 @@ As we said, this doesn't really amount to a precise definition. [One Cambridge c
 
 For more information on the much broader category of intentional communities, which also includes rural co-ops, ecovillages, religious communities, and much more, we recommend you check out [https://www.ic.org/](https://www.ic.org/).
 
+***
+
 **What is Camberville?**
+
 Local slang referring to the adjacent municipalities of Cambridge and Somerville, Massachusetts, both of which are directly across the Charles River from Boston. The two towns, as well as the Boston are in general, have [a long history of experimental living arrangements and other expressions of counterculture](https://timdevin.com/utopia-all.html). Nowadays both have quite a few housing co-ops and a pretty thriving inter-co-op community. We added "Camberville" to the subtitle of the blog to be more clear about where the primary contributors are to this blog. We don't intend to exclude potential contributors from other parts of the Boston area (looking at you Jamaica Plain, friend!) or even further afield.
 
+***
+
 **Does this mean that I  can contribute an article?**
+
 Yes! We invite and encourage contributions from others. If currently live in a co-op or have experience living in co-ops, feel free to pitch us on an idea. We'll let you know if it is the kind of thing we would post before you go through the trouble of writing it all up. You can reach us at info@conviviality-cooperatives.com.
 
+***
+
 **Who are the authors?**
+
 Depends on the article! We invite contributions from the community and will typically post a brief description of the author at the top of each article to provide context on what perspective they are writing from.
 
 The editor of the blog is Jack Reid, who currently lives in a nine-person, jointly owned co-op in Somerville called the Vivarium. He has been living in one co-op or another (all in Camberville) since 2016. My editor, we mostly mean responsible for formatting the articles and managing the website, rather than any real editing. 
+
+***
 
 **Are there any co-op related resources you recommend if I want more information?**
 
@@ -46,6 +65,9 @@ The editor of the blog is Jack Reid, who currently lives in a nine-person, joint
 - [The Boston Coop Network mailing list](https://lists.riseup.net/www/info/bcn): This email list is where Boston-area co-ops post about events and openings. It is also where folks interested in joining a co-op can post about who they are and what they are looking for.
 - [This Camberville housing Signal group chat](https://signal.group/#CjQKIAzaXyHTTkrEBl-6DpVYs7myzJQD4s9X_kBES5C9vIQtEhDlio-fGyYVLFRZNgLTgvrG): While not strictly for co-ops, plenty of Camberville c-ops are on this group.
 
+***
+
 **Did we fail to answer some question of ours?**
+
 If so, please contact us at info@conviviality-cooperatives.com and we'll be happy to answer. And if you're question does indeed turn out to be a frequently asked one, we'll add it to this page.
 

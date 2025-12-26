@@ -1,11 +1,8 @@
-- title: Posts
-  url: /index.html
-
 - title: About
-  url: /about.html
+  url: /about/
 
 - title: Authors
-  url: /authors.html
+  url: /authors/
   
 - title: Submissions
-  url: /submissions.html
+  url: /submissions/

@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# 2025-12-21_About the Blog
+# Conviviality FAQs
 
 *this faq was last updated on 2025-12-21.*
 
-***
+*** 
 
 **What is this blog about?**
 
@@ -47,7 +47,7 @@ Local slang referring to the adjacent municipalities of Cambridge and Somerville
 
 **Does this mean that I  can contribute an article?**
 
-Yes! We invite and encourage contributions from others. If currently live in a co-op or have experience living in co-ops, feel free to pitch us on an idea. We'll let you know if it is the kind of thing we would post before you go through the trouble of writing it all up. You can reach us at info@conviviality-cooperatives.com.
+Yes! We invite and encourage contributions from others. If currently live in a co-op or have experience living in co-ops, feel free to pitch us on an idea or send us a fully fleshed out piece. You can find [submission instructions here.](/submissions.html)
 
 ***
 

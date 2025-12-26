@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "About Us and Submissions"
-date:   2025-12-26 07:26:00 -0500
+title:  About Us and Submissions
+date:   2025-12-26 07:26:10 -0500
 categories: articles
 ---
 

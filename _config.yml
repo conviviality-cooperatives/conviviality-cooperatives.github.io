@@ -29,7 +29,7 @@ github_username:  conviviality-cooperatives
 
 # Build settings
 #theme: minima
-remote_theme: hitchens-theme
+remote_theme: patdryburgh/hitchens
 
 plugins:
   - jekyll-feed

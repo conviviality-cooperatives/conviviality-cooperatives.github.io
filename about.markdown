@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Conviviality FAQs
-
 *this faq was last updated on 2025-12-21.*
 
 *** 
@@ -47,7 +45,7 @@ Local slang referring to the adjacent municipalities of Cambridge and Somerville
 
 **Does this mean that I  can contribute an article?**
 
-Yes! We invite and encourage contributions from others. If currently live in a co-op or have experience living in co-ops, feel free to pitch us on an idea or send us a fully fleshed out piece. You can find [submission instructions here.](/submissions.html)
+Yes! We invite and encourage contributions from others. If currently live in a co-op or have experience living in co-ops, feel free to pitch us on an idea or send us a fully fleshed out piece. You can find [submission instructions here.](/submissions/)
 
 ***
 
@@ -69,5 +67,5 @@ The editor of the blog is Jack Reid, who currently lives in a nine-person, joint
 
 **Did we fail to answer some question of ours?**
 
-If so, please contact us at info@conviviality-cooperatives.com and we'll be happy to answer. And if you're question does indeed turn out to be a frequently asked one, we'll add it to this page.
+If so, please contact us at <info@conviviality-cooperatives.com> and we'll be happy to answer. And if you're question does indeed turn out to be a frequently asked one, we'll add it to this page.
 

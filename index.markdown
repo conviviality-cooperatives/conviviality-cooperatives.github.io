@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[<img style="float: center;" width=800 src="/assets/home_page_drawing.png">]

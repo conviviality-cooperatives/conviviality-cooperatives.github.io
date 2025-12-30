@@ -8,7 +8,7 @@ categories: articles
 
 *[Jack Reid](/authors/jack-reid/) (he/him) currently lives in a nine-person, jointly owned coop in Somerville called the Vivarium. He has been living in one coop or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
 
-<hr>
+<img alt="declaration of independence signatures" src="/assets/Us_declaration_independence_signatures.jpg" width="800" />
 
 *legal disclaimer: I am not an lawyer and cannot provide legal advice. The following is based on my own experience and may not apply to you.*
 <br/><br/>

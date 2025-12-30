@@ -6,9 +6,9 @@ author: Jack Reid
 categories: articles
 ---
 
-*The following article was written by [Jack Reid](/authors/jack-reid/) (he/him), who currently lives in a nine-person, jointly owned coop in Somerville called the Vivarium. He has been living in one coop or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
+*[Jack Reid](/authors/jack-reid/) (he/him) currently lives in a nine-person, jointly owned coop in Somerville called the Vivarium. He has been living in one coop or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
 
-<div>
+<hr>
 
 *legal disclaimer: I am not an lawyer and cannot provide legal advice. The following is based on my own experience and may not apply to you.*
 <br/><br/>

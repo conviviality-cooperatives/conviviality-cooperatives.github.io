@@ -113,10 +113,11 @@ Hopefully you are starting to see the general theme here. Owners don't have a sa
 
 Throughout the contract are a few sections (or even portions of sections) that are intended ton incentive distributed, rather than concentrated, ownership of shares. First, there's the aforementioned fact that the residents, in an egalitarian manner, are given charge for dividing up rent (and thus monthly mortgage payments) among themselves. At time of writing, we divide rent up evenly on a per-person basis. This means that, even though we contributed varying amounts to the initial downpayment (and thus started out with varying numbers of shares), we will tend towards equality over time.
 
-<img alt="you too can hit da bricks" src="/assets/shares-over-time-graph.png" width="800" />
-*Hypothetical scenario were people who made very different initial contributions to the downpayment contribute the same amount each month towards the mortgage principle.*
-<br/><br/>
-<br/><br/>
+<figure>
+  <img alt="graph of share ownership over time" src="/assets/shares-over-time-graph.png" width="800" />
+  <figcaption>Hypothetical scenario were people who made very different initial contributions to the downpayment contribute the same amount each month towards the mortgage principle.</figcaption>
+</figure>
+
 We didn't want to just be stuck with waiting for time to solve the problem, however, so we included some other provisions that encourage distributed ownership. In Section 2.1 (Paying off the Mortgage), we have:
 
 >If any Resident or Owner wishes to make voluntary payments to the mortgage principal, other Residents and Owners must be notified. All Residents and Owners shall then have an opportunity to make voluntary payments themselves. The order of these payments shall be Residents first, then non-resident Owners. Within each of these two categories, the order shall go from those who own the fewest Shares to those who own the most Shares. In the advent of a tie using this mechanism, order shall be determined among the tied individuals using a coin flip or comparable fair and random method.

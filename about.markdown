@@ -6,7 +6,7 @@ permalink: /about/
 
 *this faq was last updated on 2025-12-21.*
 
-*** 
+<br/><br/>
 
 **What is this blog about?**
 

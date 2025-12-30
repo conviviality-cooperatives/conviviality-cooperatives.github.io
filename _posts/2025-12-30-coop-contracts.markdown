@@ -180,7 +180,7 @@ Then, at the tail end of Section 5.2, we have "Any Owner who sells all of their 
 *Okay but what if by misbehaving we mean violating the contract?* There the owners can initiate recourse themselves, though the specific form of this recourse is still dependent on what exactly the person did. Let's try and be more specific here.
 
 *What if they serious damage part of (or all of) the house?"* Well there's the first part of Section 3.3. "The Owners agree to equally bear the risk of any casualty loss to any portion of the Property, except where such loss is the result of the negligence or fault of any Owner, in which case the loss shall be borne by such Owner. "
-
+<br/><br/>
 *What if someone is interfering with the sale of the house?* Selling our collective home is likely to stir up emotions. While the contract allows us to sell the house over the objections of any one individual, a particular obstinate person may try to prevent the sale anyways. For that we have the following:
 
 >**6.2 Interference** If despite the existence of a purchaser willing to purchase the entire Property at its fair market value, and the desire of one or more Owners to sell the Property to the purchaser at the offered price, the other Owner or Owners fail or refuse to do so and to execute all documents necessary to effect such a sale, said Owner or Owners shall be liable to the other Owner or Owners for all loss, damage, and expense, including reasonable attorney’s fees, caused thereby. This obligation may be enforced by specific performance in addition to any other remedies at law or in equity. 

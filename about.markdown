@@ -53,7 +53,7 @@ Yes! We invite and encourage contributions from others. If currently live in a c
 
 Depends on the article! We invite contributions from the community and will typically post a brief description of the author at the top of each article to provide context on what perspective they are writing from.
 
-The editor of the blog is Jack Reid, who currently lives in a nine-person, jointly owned co-op in Somerville called the Vivarium. He has been living in one co-op or another (all in Camberville) since 2016. My editor, we mostly mean responsible for formatting the articles and managing the website, rather than any real editing. 
+The editor of the blog is Jack Reid, who currently lives in a nine-person, jointly owned co-op in Somerville called the Vivarium. He has been living in one co-op or another (all in Camberville) since 2016. By editor, we mostly mean responsible for formatting the articles and managing the website, rather than any real editing. 
 
 ***
 

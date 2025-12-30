@@ -5,14 +5,14 @@ date:   2025-12-30 16:20:10 -0500
 categories: articles
 ---
 
-*The following article was written by [Jack Reid](/author-pages/jack-reid/) (he/him), who currently lives in a nine-person, jointly owned coop in Somerville called the Vivarium. He has been living in one coop or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
+*The following article was written by [Jack Reid](/authors/jack-reid/) (he/him), who currently lives in a nine-person, jointly owned coop in Somerville called the Vivarium. He has been living in one coop or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
 
 ***
 
 *legal disclaimer: I am not an lawyer and cannot provide legal advice. The following is based on my own experience and may not apply to you.*
-
+<br/><br/>
 *author's note: If you are just looking for an example contract, you can find that [here](/assets/Vivarium_Contract_anonymized.pdf). If you are looking for a lawyer to help your coop write up a contract, I recommend [Lee Goldstein](https://www.goldsteinandfeuer.com/attorney/goldstein-lee-d/). There are lots of types of coop ownership and many steps involved with buying a house. This article only deals with a tenancy-in-common contract. Finally, the contract discussed in this article was signed on March 5th, 2025, approximately ten months ago at time of writing. Readers are cautioned to maintain some, well, caution when considering the efficacy of this particular contract.*
-
+<br/><br/>
 When friends, family, or more distant associates learn that I live in a jointly owned coop, one of the more common responses is: "Oh really? How does that work? What if someone wants to sell? Do you have some kind of contract?"
 
 The answer, of course, is yes. A contract was a crucial part of our collective home-buying process. That said, I think most of those curious inquirers have a fairly mistaken idea of precisely why a contract is important for a property-owning coop. In the approximately ten months since we signed our contract and moved into our house, we talk about or reference our contract approximately never (unless answering an outsiders question). The contract simply isn't relevant to our day-to-day decision-making and, to be honest, that's how we like it. How can this apparent irrelevance of the contract and my claim of its cruciality both be true at the same time? That's what I'm going to talk about today.
@@ -47,11 +47,11 @@ How does this shake out in practice? Let's look at a specific contract.
 # What's in a contract?
 
 Obviously you need to talk to a lawyer to make a contract happen. Before that, though, it can be helpful to have a sense of what you want the contract to accomplish. Wen the group of people that would become the Vivarium, my coop, were discussing a potential contract, we kept revolving around two central principles.
-
+<br/><br/>
 (1) The contract shall provide a graceful exit. Folks who would soon be contributing large sums of money to a downpayment and signing onto a thirty year mortgage shouldn't feel like they were lighting their money and future on fire. If desired or needed, each person should feel free to leave and to retrieve their money, while not overburdening the remaining folks. 
-
+<br/><br/>
 (2) Decision-making and social status should be kept as egalitarian as practicable. Someone who contributed more to the downpayment shouldn't have more of a say on living room paint color, higher priority when selecting chores, or more of a say one which maintenance or renovation project happens next.
-
+<br/><br/>
 There's a natural tension between these two principles. Plenty of house decisions can impact the value of the property, so someone with a ton of money sunk into the house may have feelings about those decisions. Most of our contract is working out this tension where it exists and fleshing out the two principles were it doesn't. We didn't do this from scratch, however. We procured the services of a local lawyer familiar with Massachusetts coops. [Lee Goldstein](https://www.goldsteinandfeuer.com/attorney/goldstein-lee-d/) has been assisting groups such as the Vivarium for about fifty years now. He even wrote [a book on the topic](https://books.google.com/books/about/Communes_Law_Commonsense.html?id=y7a1AAAAIAAJ) back in the 1970s! Lee provided us with three (anonymized) contracts from past engagements. We constructed our own contract by copying bits and pieces of each, then editing and expanding upon the assemblage until it suited our needs. After some rounds of edits and suggestions from Lee, it was ready and we could proceed to look for a house to buy.
 
 The following sections walk through some of the more notable sections of the contract, with reference to the above two principles. You can read the full (anonymized) [contract here](/assets/Vivarium_Contract_anonymized.pdf)
@@ -114,7 +114,8 @@ Throughout the contract are a few sections (or even portions of sections) that a
 
 <img alt="you too can hit da bricks" src="/assets/shares-over-time-graph.png" width="800" />
 *Hypothetical scenario were people who made very different initial contributions to the downpayment contribute the same amount each month towards the mortgage principle.*
-
+<br/><br/>
+<br/><br/>
 We didn't want to just be stuck with waiting for time to solve the problem, however, so we included some other provisions that encourage distributed ownership. In Section 2.1 (Paying off the Mortgage), we have:
 
 >If any Resident or Owner wishes to make voluntary payments to the mortgage principal, other Residents and Owners must be notified. All Residents and Owners shall then have an opportunity to make voluntary payments themselves. The order of these payments shall be Residents first, then non-resident Owners. Within each of these two categories, the order shall go from those who own the fewest Shares to those who own the most Shares. In the advent of a tie using this mechanism, order shall be determined among the tied individuals using a coin flip or comparable fair and random method.
@@ -164,21 +165,21 @@ This selection is embodied in our contract as follows:
 ## What if...?
 
 Remember that a major role of a contract is to provide step-by-step guides for stressful situations. Many parts of our contract have less to do with our two principles and more to do with various contingencies of varying likelihoods. Let's call these the "What if?" clauses.
-
+<br/><br/>
 *What if someone gets hit by a bus?* You can distinguish between a personal hobby and an institution by asking this question. Can the rest of you pick up and keep going? You are an institution with some resilience. If the whole operation falls apart? Then you were't a real organization, you were just that person's hobby. And if you signed onto a 30-year mortgage, the chance that *someone* dies at *some point* is very much nonzero. So it is prudent for us to think about that. Our answer? You can will your shares to whomever you like, but they don't get to participate in decision-making unless they full join the community and this contract (which requires consent of the current community members). And in the event that you are just disabled in some sense, the rest of us can carry on with our decision-making.
 
 > **1.2 Incapacitation and Inheritance** In the event that any Owner dies, or becomes ill, mentally disabled, incompetent, or otherwise incapacitated (the phrase “incompetent Owner,” as used in this document shall include any such condition other than death), the remaining Owners shall equally share full rights to control and make decisions concerning the Property. No other agent or guardian, nor any heir, beneficiary, legatee, donee, executor, administrator, trustee, assign employee, successor in interest, or anyone else acting on behalf of an incompetent Owner, shall have the right to participate in decisions concerning the Property. In the event of any Owner’s death, the deceased Owner’s interest in the Property may pass to their heir(s) or beneficiary(ies); however, such heirs or beneficiaries shall not have rights to participate in decisions concerning the maintenance, sale, rental, or other control of the Property. If the heir(s) or beneficiary(ies) are already a Resident, they will be allowed to join the Agreement in full. If they are not already a Resident, or if they decline to join the Agreement, the heirs’ or beneficiaries’ interest shall be restricted to the right to receive their share(s) of any equity, if and when the remaining Owners shall decide to sell the Property.
 
 *What if a resident is misbehaving?* Depends on what you mean by misbehaving. If it is isn't something covered in the contract (like being a general asshole), well, that's the business of the residents. Section 1.5 clearly states that "eviction of Residents" falls in their domain, not the contract. So if they want to kick someone out, they can.
-
+<br/><br/>
 *What if that resident is also an owner?* Ah yes, that's a bit more complicated. First off, being an owner doesn't prevent you from being evicted by the residents. Egalitarian decision-making and all that. But it is not unreasonable to expect that if someone warranted getting evicted, we probably don't want them involved in the house decision-making as an owner either. In that case, we can avail ourselves of a section that we actually talked about earlier for a different reason:
 
 >**5.2 Purchasing Shares from a Non-Resident Owner** At any time, by Consent of the Residents, a nonresident share owner may be compelled to sell some or all of their Shares to one or more of the residents at their current monetary value, as defined by Section 5.5...
 
 Then, at the tail end of Section 5.2, we have "Any Owner who sells all of their Shares shall no longer be considered an Owner and shall be removed from the Agreement." So in summary, if an owner is misbehaving, first residents have to evict them, then the residents can force them to sell off their shares, thereby booting them off of the contract.
-
+<br/><br/>
 *Okay but what if by misbehaving we mean violating the contract?* There the owners can initiate recourse themselves, though the specific form of this recourse is still dependent on what exactly the person did. Let's try and be more specific here.
-
+<br/><br/>
 *What if they serious damage part of (or all of) the house?"* Well there's the first part of Section 3.3. "The Owners agree to equally bear the risk of any casualty loss to any portion of the Property, except where such loss is the result of the negligence or fault of any Owner, in which case the loss shall be borne by such Owner. "
 <br/><br/>
 *What if someone is interfering with the sale of the house?* Selling our collective home is likely to stir up emotions. While the contract allows us to sell the house over the objections of any one individual, a particular obstinate person may try to prevent the sale anyways. For that we have the following:

@@ -2,6 +2,7 @@
 layout: post
 title:  Coop Contracts
 date:   2025-12-30 16:20:10 -0500
+author: Jack Reid
 categories: articles
 ---
 

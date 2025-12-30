@@ -35,6 +35,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   
+  
+feed_icon: /assets/icon.png
+
 # ignore_theme_config: true
 
 

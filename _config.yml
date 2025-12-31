@@ -37,6 +37,7 @@ plugins:
   
   
 feed_icon: /assets/icon.png
+icon: /favicon.ico
 
 # ignore_theme_config: true
 

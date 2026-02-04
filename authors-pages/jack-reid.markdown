@@ -8,3 +8,4 @@ Jack Reid (he/him) currently lives in a nine-person, jointly owned coop in Somer
 
 # Articles by Jack Reid
 - [Coop Contracts](/articles/2025/12/30/coop-contracts.html)
+- [So You Want To Buy A House Together?](/articles/2026/02/05/so-you-want-to-buy-a-house-together.html)

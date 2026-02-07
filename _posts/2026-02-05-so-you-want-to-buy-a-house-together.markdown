@@ -94,7 +94,7 @@ Those are the main things. There's countless small steps and potential barriers,
 
 And if you end up pulling it off and have some tips of your own to share, even if they contradict my experience, write them up and send them our way, we'd be happy to post them for others to see!
 
-    ***
+***
 
 *If you have questions for this author or about the blog more generally, please reach out to <info@conviviality-cooperatives.com>. If you wish to propose or submit your own article, please see our [submissions instructions](https://conviviality-cooperatives.com/submissions/).*
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Seven Days of Co-op Cooking
 date:   2026-02-07 16:20:10 -0500
-author: Avital Baral
+author: Avital
 categories: articles
 ---
 

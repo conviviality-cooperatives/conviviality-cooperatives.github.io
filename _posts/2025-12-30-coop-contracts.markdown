@@ -47,7 +47,7 @@ How does this shake out in practice? Let's look at a specific contract.
 
 # What's in a contract?
 
-Obviously you need to talk to a lawyer to make a contract happen. Before that, though, it can be helpful to have a sense of what you want the contract to accomplish. Wen the group of people that would become the Vivarium, my co-op, were discussing a potential contract, we kept revolving around two central principles.
+Obviously you need to talk to a lawyer to make a contract happen. Before that, though, it can be helpful to have a sense of what you want the contract to accomplish. When the group of people that would become the Vivarium, my co-op, were discussing a potential contract, we kept revolving around two central principles.
 <br/><br/>
 (1) The contract shall provide a graceful exit. Folks who would soon be contributing large sums of money to a downpayment and signing onto a thirty year mortgage shouldn't feel like they were lighting their money and future on fire. If desired or needed, each person should feel free to leave and to retrieve their money, while not overburdening the remaining folks. 
 <br/><br/>
@@ -196,7 +196,7 @@ Then, at the tail end of Section 5.2, we have "Any Owner who sells all of their 
 >**4.2 Right of Action** If the defaulting Owner refuses or fails to comply with the preceding provisions of this Article, the remaining Owners shall have the right to bring an action in the appropriate court seeking specific performance of this Agreement, damages, other appropriate preliminary relief, reasonable attorneys fees, and interest accruing from the date of the default.
 >**9.4 Breach The Owners** acknowledge that a breach of this Agreement cannot be adequately rectified by monetary damages alone, and all Owners acknowledge the right of other Owners to seek specific performance in addition to all other remedies contained in this Agreement.
 
-*Whose responsible for the mortgage at the end of the day if this whole thing falls apart?* The original set of owners each signed onto the mortgage individually (yes, you can do that, one of us should write another article about that at some point). In the eyes of the bank, each of those signatories are responsible for the entire mortgage. They'd probably go after whoever they thought had the most money. Among ourselves, however, we have more specificity. If the house is still a going concern but the residents aren't holding up their contractual responsibility to make the monthly mortgage payments, we have this provision:
+*Who's responsible for the mortgage at the end of the day if this whole thing falls apart?* The original set of owners each signed onto the mortgage individually (yes, you can do that, one of us should write another article about that at some point). In the eyes of the bank, each of those signatories are responsible for the entire mortgage. They'd probably go after whoever they thought had the most money. Among ourselves, however, we have more specificity. If the house is still a going concern but the residents aren't holding up their contractual responsibility to make the monthly mortgage payments, we have this provision:
 
 >**1.10 Income and Expenses** ... In the event that the Residents fail to raise enough money to cover expenses, each Owner shall be responsible for a share of the following expenses proportional to their number of Shares: (a) mortgage payments; (b) real estate taxes and insurance payments; (c) all utilities....
 

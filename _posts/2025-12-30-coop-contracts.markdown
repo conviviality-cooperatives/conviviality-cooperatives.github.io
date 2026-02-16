@@ -41,7 +41,7 @@ A contract accomplishes this in two ways. The first is clarity (and ideally fair
 
 So contracts tell a judge what to do in a court and tell your house what to do before that. A contract does yet another thing even earlier, however. A contract provides a safety net and thereby provides a sense of security. It establishes the worst-case scenario in the event that some otherwise minor argument spirals out of control. A key part of feeling safe and secure is knowing that you don't have to win every argument, that what you value is protected, and that you have a way out of the situation if you need it. Theresa and Juno (and the rest of the house) can work out their dirty dishes dispute without worrying about whether either will be out on the street without a penny to their name. Ideally a contract provides that secure and provides that way out.
 
-<img alt="you too can hit da bricks" src="/assets/co-op_hit_da_bricks.png" width="800" />
+<img alt="you too can hit da bricks" src="/assets/coop_hit_da_bricks.png" width="800" />
 
 How does this shake out in practice? Let's look at a specific contract.
 

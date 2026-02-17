@@ -8,7 +8,7 @@ categories: articles
 
 *[Mehitabel](/authors/mehitabel/) (they/them) is a comic artist, history educator, and coop denizen since 2016. They currently reside in Somerville, MA.*
 
-<img alt="Coop Kitchen" src="/assets/kitchen-drawing.jpg" width="800" />
+<img alt="Coop Kitchen" title="Coop Kitchen" src="/assets/kitchen-drawing.jpg" width="800" />
 
 A few months ago, when a house guest left from the front door of our home, they were stopped by a couple passing on the street (dressed in full Renaissance Faire garb!) who hesitantly asked them “...does a polycule live here?” 
 
@@ -40,7 +40,7 @@ Since different people often approach co-housing with their own ideas of how ent
 
 Below, I’ve included a draft of a potential relationship menu for co-housing (based somewhat on the survey that my house used). Obviously, my template isn’t the only approach – I’ve tried to include on it things which are important to me, but I strongly encourage you to create your own templates with things which are important to you!
 
-<img alt="Example relationship menu for co-housing" src="/assets/relationship-chart.png" width="800" />
+<img alt="Example relationship menu for co-housing" title="Example relationship menu for co-housing" src="/assets/relationship-chart.png" width="800" />
 
 ## Trust-Based Communication
 

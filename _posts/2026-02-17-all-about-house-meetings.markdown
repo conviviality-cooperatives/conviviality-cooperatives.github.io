@@ -8,7 +8,7 @@ categories: articles
 
 *[Mehitabel](/authors/mehitabel/) (they/them) is a comic artist, history educator, and coop denizen since 2016. They currently reside in Somerville, MA.*
 
-<img alt="hopefully your house meetings aren't like this" src="/assets/12-angry-men.png" width="800" />
+<img alt="hopefully your house meetings aren't like this" title="hopefully your house meetings aren't like this" src="/assets/12-angry-men.png" width="800" />
 
 The house meeting is a much maligned aspect of co-op living. After dishes in the sink (and your roommate’s poorly trained pet ferret) terrible house meetings are probably the most common sort of co-op horror story. At their worst, house meetings are a synecdoche for all of the worst co-op drama – I get this mental image of a bunch of punks sitting on beanbags who can’t get through two sentences without accusing each other of being poser marxists while fighting in about equal parts over their dysfunctional chore rotation, lesbian separatism, and whether to buy single or double ply toilet paper. And this reputation’s not entirely without merit – over the years, I have heard some truly *bonkers* gossip about ways that other co-ops are organizing their meetings (“omg, what do you *mean* you just have to sit there silently and witness the conversation until you’ve lived in the house for more than three months??”). And, horror stories aside, I know a lot of people who live in even pretty functional coops who do not like house meetings or even find them to be one of the more stressful or annoying aspects of group living.
 

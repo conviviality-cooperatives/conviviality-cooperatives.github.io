@@ -8,7 +8,7 @@ categories: articles
 
 *[Avital](/authors/avital/) has been living in cooperative housing since 2020. Avi enjoys walking long distances, cycling, and high-effort vegan baking.*
 
-<img alt="food!" src="/assets/butternut-squash-soup.png" width="800" />
+<img alt="food!" title="food!" src="/assets/butternut-squash-soup.png" width="800" />
 
 When people hear that I live in a 7 person coöp where we hold nightly communal dinners, they usually react with a polite mix of horror and curiosity. You only cook once a week, they ask? How does grocery shopping work? What if someone cooks something you don’t like?
 

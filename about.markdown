@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*this faq was last updated on 2025-12-21.*
+*this faq was last updated on 2026-02-17.*
 
 <br/><br/>
 
@@ -54,6 +54,12 @@ Yes! We invite and encourage contributions from others. If currently live in a c
 Depends on the article! We invite contributions from the community and will typically post a brief description of the author at the top of each article to provide context on what perspective they are writing from.
 
 The editor of the blog is Jack Reid, who currently lives in a nine-person, jointly owned co-op in Somerville called the Vivarium. He has been living in one co-op or another (all in Camberville) since 2016. By editor, we mostly mean responsible for formatting the articles and managing the website, rather than any real editing. 
+
+***
+
+**How can I get notified when a new article gets posted?**
+
+We have some instructions for that [here!](/feed/)
 
 ***
 

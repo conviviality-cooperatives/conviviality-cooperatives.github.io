@@ -8,7 +8,7 @@ categories: articles
 
 *[Jack Reid](/authors/jack-reid/) (he/him) currently lives in a nine-person, jointly owned coop in Somerville called the Vivarium. He has been living in one coop or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
 
-<img alt="Church on 125 Highland for sale" src="/assets/church_for_sale.png" width="800" />
+<img alt="Church on 125 Highland for sale, could be co-op!" title="Church on 125 Highland for sale, could be co-op!" src="/assets/church_for_sale.png" width="800" />
 
 ## Summary of resources mentioned in this post
 

@@ -8,7 +8,7 @@ categories: articles
 
 *[Jack Reid](/authors/jack-reid/) (he/him) currently lives in a nine-person, jointly owned co-op in Somerville called the Vivarium. He has been living in one co-op or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
 
-<img alt="declaration of independence signatures" src="/assets/Us_declaration_independence_signatures.jpg" width="800" />
+<img alt="declaration of independence signatures" title="declaration of independence signatures" src="/assets/Us_declaration_independence_signatures.jpg" width="800" />
 
 *legal disclaimer: I am not an lawyer and cannot provide legal advice. The following is based on my own experience and may not apply to you.*
 <br/><br/>
@@ -41,7 +41,7 @@ A contract accomplishes this in two ways. The first is clarity (and ideally fair
 
 So contracts tell a judge what to do in a court and tell your house what to do before that. A contract does yet another thing even earlier, however. A contract provides a safety net and thereby provides a sense of security. It establishes the worst-case scenario in the event that some otherwise minor argument spirals out of control. A key part of feeling safe and secure is knowing that you don't have to win every argument, that what you value is protected, and that you have a way out of the situation if you need it. Theresa and Juno (and the rest of the house) can work out their dirty dishes dispute without worrying about whether either will be out on the street without a penny to their name. Ideally a contract provides that secure and provides that way out.
 
-<img alt="you too can hit da bricks" src="/assets/coop_hit_da_bricks.png" width="800" />
+<img alt="you too can hit da bricks" title="you too can hit da bricks" src="/assets/coop_hit_da_bricks.png" width="800" />
 
 How does this shake out in practice? Let's look at a specific contract.
 
@@ -114,7 +114,7 @@ Hopefully you are starting to see the general theme here. Owners don't have a sa
 Throughout the contract are a few sections (or even portions of sections) that are intended ton incentive distributed, rather than concentrated, ownership of shares. First, there's the aforementioned fact that the residents, in an egalitarian manner, are given charge for dividing up rent (and thus monthly mortgage payments) among themselves. At time of writing, we divide rent up evenly on a per-person basis. This means that, even though we contributed varying amounts to the initial downpayment (and thus started out with varying numbers of shares), we will tend towards equality over time.
 
 <figure>
-  <img alt="graph of share ownership over time" src="/assets/shares-over-time-graph.png" width="800" />
+  <img alt="graph of share ownership over time" title="graph of share ownership over time" src="/assets/shares-over-time-graph.png" width="800" />
   <figcaption>Hypothetical scenario were people who made very different initial contributions to the downpayment contribute the same amount each month towards the mortgage principle.</figcaption>
 </figure>
 

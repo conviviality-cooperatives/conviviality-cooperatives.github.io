@@ -17,7 +17,7 @@ My co-op was, of course, in hysterics about this. Not necessarily because it was
 Nevertheless, the comment from our gaily-clad neighbors did get me thinking (as a polyamorous person who also loves living in co-ops) about how many of the social and emotional tools which have helped me navigate the difficulties of polyamorous relationships have also made my life so much easier as a co-op housemate. There are a number of reasons that polyamorous people are often drawn to co-housing (beyond the basic, practical need to live with more than one roommate if you want to live with all your partners), and I think one of those reasons is that the tools and approach to intimacy which many polyamorous people use to navigate their romantic relationships also equip people very well to navigate co-housing relationships. Even the most commitedly monogamous people can learn a lot from the polyamorous community when it comes to figuring out how to live comfortably and joyfully with more than one person. So – as the living stereotype of the polyamorous somervillan co-op dweller – here is my humble attempt to outline, for monogamous and polyamorous people alike, and how polyamorous communication tools can also help with cooperative living. 
 
 
-# What does Polyamory have to do with Co-Housing?
+## What does Polyamory have to do with Co-Housing?
 
 If I live in co-ops but never intend to smooch any of my housemates, what does polyamory have to do with me?
 
@@ -30,7 +30,7 @@ People in polyamorous relationships are used to having conversations about thing
 Polyamory is also a non-normative way of making major commitments which puts a big emphasis on involving more than one other person in your life. People who are figuring out how to have functional polyamorous relationships have put a lot of thought into how to juggle commitments between more than two people and how to have effective communications with high emotional stakes for groups of more than two people. Even when you take the sex and romance out of it, many of the communication struggles which polyamorous people encounter (juggling competing needs and boundaries within a group of tightly connected people, scheduling group events, etc.) also apply to co-op homes. From the oft-mocked polyamorous google calendar to tools like the “relationship anarchy smorgasbord.” I’ve found that many conversation tools developed for negotiating polyamorous commitments can also be very useful for negotiating co-housing!
 
 
-# The Relationship Menu
+## The Relationship Menu
 
 Co-ops, like polyamorous relationships, can look all kinds of different ways. Some people cook meals together every week, and some people prefer to have their own food. Some people share money just for groceries, and some people pool their whole incomes. Some people like to raise children together, and some people don’t even want to be responsible for their roommate’s cats. Especially in long-term housing situations, making sure that housemates are on the same page about what parts of their life they’d like to share with their housemates (and what parts they don’t!) is crucial. And, since co-housing can touch on so many different aspects and dimensions of intimacy, I’ve found that having a tool to facilitate having that conversation systematically can be extremely helpful. 
 
@@ -42,7 +42,7 @@ Below, I’ve included a draft of a potential relationship menu for co-housing (
 
 <img alt="Example relationship menu for co-housing" src="/assets/relationship-chart.png" width="800" />
 
-# Trust-Based Communication
+## Trust-Based Communication
 
 An inconvenient fact about inviting people into your life (love life, house, etc) is that there will be moments when your preferences, desires, or needs conflict with each other’s. And the more people with different preferences and desires that you involve in a situation, the more compromises you might have to make. Making these kinds of compromises is often what makes people most anxious about co-housing or polyamorous relationships – and with good reason! When we make something as central to our lives as a relationship or a home, it’s important that it feels welcoming and comfortable, even when we’re tired, even when we’re grouchy, even when we’re not at our best. No one wants to be returning everyday to a situation where they’re making trade-offs they’re unhappy with. Being able to negotiate competing preferences is one of the big problems of co-housing and of polyamory – and when it’s not working well, it can be one of the worst stressors.
 
@@ -72,7 +72,7 @@ People in the polyamorous community have put together a lot of great worksheets 
 
 This doesn’t all need to be a conversation that happens in your head either! Your housemates are your friends, and sometimes, it can be really helpful to get other people’s help with brainstorming solutions they wouldn’t find overly constraining, or even parsing out what parts of the situation are stressors for you. But I’ve often found that, in general, the more that people who live in a co-op trust their housemates and make communicating needs in this kind of style second nature, the smoother conversations about shared spaces and diverging preferences can go. 
 
-# In Conclusion
+## In Conclusion
 
 Obviously, parallels between polyamorous communication and co-housing communication is a big topic, which I could share a lot of thoughts about for a long time. And I for sure don’t pretend to have it all figured out either – in my romantic relationships, or in my co-housing relationships! But I have personally found thinking about these parallels helpful in some moments of difficult co-op communication, and I hope that this post can be at least a useful introduction into thinking about how tools developed by one community could be useful for thinking about the other. 
 

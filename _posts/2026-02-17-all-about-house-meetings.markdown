@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  All About House Meetings
-date:   2026-02-17 8:00:00 -0500
+date:   2026-02-17 08:00:00 -0500
 author: Mehitabel
 categories: articles
 ---
@@ -76,7 +76,7 @@ Even with regular meeting times, it can be really hard to get all of the members
 
 Something I’ve found to be really effective in a few co-ops I’ve lived in is a system of sending in “proxy opinions.” Essentially, if someone can’t make it to a house meeting, they can tell another housemate their opinions. That housemate will be their “proxy,” stand-in to represent their opinions at the house meetings, and be empowered to vote on their behalf. In a situation where not all housemates can make it to house meeting all the time, this can really prevent decisions from getting stalled out because of people’s personal schedules. 
 
-### Stack Tracking
+### Stack tracking
 
 In really large co-ops, or in conversations where everyone has something to say, one of the most useful things I think a facilitator can do is to “stack track” – keep a running list of people who are in the queue to speak. Stack tracking is a low-key thing you can do to make sure that people who want to speak get their moment and aren’t getting talked over. It can be a good way to keep a conversation on its main flow and prevent a lot of back-and-forth on tangents. In the bigger co-op I lived in, stack-tracker was sometimes a separate role from the facilitator in really chatty house meetings. 
 
@@ -89,7 +89,7 @@ It’s a consequence of basic math that in a co-op with *n* people in it, everyo
 
 In conversations where everyone’s input and comfort are particularly essential, one strategy which my co-op uses is “rounds”: posing a question to the group and then having everyone go around and quickly say their thoughts on it. Rounds are a good tool for mid-sized co-ops. They can be really nice in conversations where it’s helpful to start with listening before jumping into particular solutions, as well as in conversations where you might not even know where to start the conversation until you know what the range of concerns or ideas out there are. Some places I think a round can be useful in are conversations about what you want a system you are creating to look like (e.g., “What do we want from our kitchen island?” or “What kind of chores rotation should we have?”) or conversations where you might want to start with some emotional sharing (e.g., “How is everyone feeling about that fight that happened on Thursday?”) 
 
-### Avoiding Bikeshedding
+### Avoiding bikeshedding
 
 Co-op house meetings are infamous for always taking the longest times to talk about the most inconsequential details. As the idiom goes, the discussion topic in the planning of an entire building which will always take the most time is discussing the specs of the bike shed. I’m not exactly sure why this is a thing about conversations, but it can be useful in your co-op to have a way to flag when you feel that you have basically reached the natural end of a conversation and mostly agree and are talking about irrelevant details of implementation which don’t really need to be discussed in house meeting.
 
@@ -99,17 +99,17 @@ In a co-op I previously lived in, people had a procedure called “murring” (l
 
 Some conversations which come up at house meeting are pretty cut and dry, and some people could spend all day talking about. One of the difficulties of assembling a house meeting agenda can be balancing urgent topics with more long-term ones, and shorter topics with lengthier ones, to make sure everything can be worked through in a timely manner. If a particular conversation seems like one that could take a long time, I’ve found it can be very helpful to block out a particular future house meeting for it. Especially with topics people might want to do a lot of processing about, it can also be useful to schedule a future time to discuss them so people have time to collect their thoughts before bringing them to house meeting. 
 
-### Schedule Time for Processing
+### Schedule time for processing
 
 House meetings can be tough because they are both a space where very concrete logistical decisions get made and a space where people who very intimately share their lives with each other come together to talk about their feelings about how living together is going. Sometimes group or individual processing of emotions can be really useful in house meetings as a way to get on the same page – and sometimes it can derail a lot when there is a logistical question which needs to get answered more quickly than it would take for everyone to get all of their feelings out. If you never talk about feelings as a house, you are not going to have very emotionally intelligent conversations as a house – but feeling like every house meeting becomes mandatory feelings processing hell is one of the things which can really make some people hate house meetings. 
 
 To this end, I think it can often be helpful to clearly delineate time for emotional processing and time for decisions in house meetings. For instance, when you’re discussing a tough topic, it can be helpful to start with a round for everyone to get their feelings out and then move into concrete logistical solutions. Or you could offer your housemates an opportunity to talk about feelings before house meeting so people can work through that and come to house meeting with just their concrete asks already figured out. Or you could schedule time for processing after house meeting, so people who still have unresolved feelings have a place to get them out, whereas people who want to be done with the conversation can walk away and not feel trapped in endless mandatory feels meeting. Feelings are important and need their own space too – and when there is a clear space for them, it’s easier to keep the rest of the meeting down to brass tacks. 
 
-### Remember That you Love Each Other
+### Remember that you love each other
 
 During one of the most difficult house meetings of my co-op-dwelling life, when things were getting personal and nasty between a few housemates about another housemate’s behavior, my friend said a very wise thing which I have carried with me throughout my entire co-op life: “Can we remember that we are all talking about a person who many of us love?” 
 
-You don’t need to love all of your housemates all the time to get along well with them as housemates. But, above all, I think the thing that really makes house meetings work or not is if we remember that the thing that ties our communities together are bonds of love; that choosing to live with other people is a loving thing to do. House meeting conversations can be tense. They can be hard. And when they are hard, the most useful thing you can do for your community is to remind them that they love each other. Sometimes, the solution to a difficult conversation at house meeting is better facilitation or more processing – and sometimes it’s just a freshly baked batch of cookies or sitting down to watch a movie together afterwards. Remember you love each other, take a deep breath, and it’s all going to turn out fine.  
+You don’t need to love all of your housemates all the time to get along well with them as housemates. But, above all, I think the thing that really makes house meetings work or not is if we remember that the thing that ties our communities together are bonds of love; that choosing to live with other people is a loving thing to do. House meeting conversations can be tense. They can be hard. And when they are hard, the most useful thing you can do for your community is to remind them that they love each other. Sometimes, the solution to a difficult conversation at house meeting is better facilitation or more processing – and sometimes it’s just a freshly baked batch of cookies or sitting down to watch a movie together afterwards. Remember you love each other, take a deep breath, and it’s all going to turn out fine.
 ***
 
 *If you have questions for this author or about the blog more generally, please reach out to <info@conviviality-cooperatives.com>. If you wish to propose or submit your own article, please see our [submissions instructions](https://conviviality-cooperatives.com/submissions/).*

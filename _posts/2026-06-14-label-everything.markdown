@@ -8,7 +8,7 @@ categories: articles
 
 *[Jack Reid](/authors/jack-reid/) (he/him) currently lives in a nine-person, jointly owned coop in Somerville called the Vivarium. He has been living in one coop or another (all in Camberville) since 2016. He is also the editor/webmanager of the Conviviality blog.*
 
-<img alt="maybe this is what walls are for" title="maybe this is what walls are for" src="/assets/wall.png" width="800" />
+<img alt="maybe this is what walls are for" title="maybe this is what walls are for" src="/assets/wall.jpg" width="800" />
 
 Living in a co-operative can make a variety of aspects of life easier than living alone or with just a couple of roommates. Labor can be specialized and divided. Cooking a meal for eight requires significantly less than eight times the effort for cooking for one. Social interaction is right there in your own living room. This beneficent inclinaiton does not apply to all parts of co-op life, however. More people can all too easily mean more stuff. More mess. More disorganization. More clutter. An abandoned sock in the laundry room is not easily identified and returned to its owner. Cute but space-consumptive knickknacks can quickly accumulate. A particular cooking utensil can get put away somewhere the seemed intuitive to one person but is utterly obtuse to another. And storage space can become all too scarce. 
 

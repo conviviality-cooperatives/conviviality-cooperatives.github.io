@@ -28,10 +28,14 @@ First and foremost is labeling. Get yourself a labelmaker and go to town. Drawer
 <img alt="some straightforward examples from around my house" src="/assets/labeling-examples.png" width="800" />
 *some straightforward examples from around my house*
 
+<br/><br/>
+
 Labeling can apply to individual items as well. One co-op I lived in named their storage area "Label Your Shit" and painted that label in large, colorful letters on the door. That way, owners of objects could be identified, even if they had already moved out. And if something wasn't labeled, well, the current residents could dispose of it however they wanted. One co-op workshop that I'm aware of placed a matching alphanumeric label on both the tool and the spot where the tool goes. The pliers with the label *A15* goes on the peg labeled *A15*. This can be particularly useful in a large or busy space. Maybe the *A* in *A15* refers to a particular pegboard on the wall, which has a large, prominent letter A at the top that can be seen from across the room. The *15* then refers to a particular peg on that pegboard. Another co-op that I've seen accomplished a similar affect without any language-based labels at all. They simply drew outlines of each tool on their pegboard. Square shape goes in the square hole, simple as that (though this lacks the "which part of the room should I look for the square hole" aspect of the alphanumeric solution).
 
 <img alt="door later supplemented with even more specific labeling instructions" src="/assets/label-your-shit.png" width="800" />
 *door later supplemented with even more specific labeling instructions*
+
+<br/><br/>
 
 Generally, I've seen co-operatives follow a pretty similar trajectory when it comes to labeling.
 
@@ -44,6 +48,8 @@ Third, customized, permanent, and creative labeling. The painted "Label Your Shi
 <img alt="Care to hazard a guess as to what each drawer contains?" src="/assets/utensil-drawers.png" width="800" />
 *Care to hazard a guess as to what each drawer contains?*
 
+<br/><br/>
+
 This final kind of labels are most common in long lasting co-ops. This is partly a matter of stability. If this drawer has contained specifically knives for the past decade, you can be reasonably sure that it's going to continue to contain knives for the next decade or more. It is thus worth investing the time to make a custom label that would be a real pain to move. And I'm sure it is also partly a matter of waiting for inspiration to strike. 
 
 # Storage Space (aka: go vertical)
@@ -53,10 +59,14 @@ Labeling only works if you have places to put stuff, though. And most homes are 
 <img alt="the pans above and the pots below were taking up **so** much cabinet space" src="/assets/kitchen storage examples.png" width="800" />
 *the pans above and the pots below were taking up* **so** *much cabinet space*
 
+<br/><br/>
+
 Keep in mind that people need a place to go as well. Extra chairs can be folded or put under tables. Beds can be put on lofts. In general, a busy co-op should always turn a critical eye to an empty wall or any vertical space above a piece of furniture. Obviously vertical storage won't work in all situations or for all people. While a generous deployment of stepladders can facilitate access, don't put dangerously heavy objects or objects regularly needed by a reach-limited housemate up high, unless there is an easy and safe way to get them down.
 
 <img alt="objects both small and large can go on walls, though the latter may require pulleys" src="/assets/other-storage-examples.png" width="800" />
 *objects both small and large can go on walls, though the latter may require pulleys*
+
+<br/><br/>
 
 The other kind of storage solution is not about opening up new horizons but simply adding a designation. If you consistently lack a place to store for a class of objects, designate a specific spot. Perhaps the most basic of these is the Lost & Found. Rather than simply ignoring or working around abandoned objects of dubious provenance, designate a specific shelf for these objects. Sock got left in the laundry room? Lost & Found. Earbuds unearthed in the couch cushions? Lost & Found. Closely related to the Lost & Found is the "Reuse," a designated place to put objects that you don't need anymore but you think some housemate or guest might want. 
 
@@ -68,7 +78,11 @@ Designated storage spaces go hand-in-hand with labeling, of course. If a storage
 
 Labeling and organized storage space can go along way, but they can't do the job alone. Inevitably, objects will accumulate and things will be misplaced. The house also needs good practices to occasionally rectify matters. There's no one-size fits all here. Your house will have to figure out what's useful for your circumstances. If labeling and storage are further on the technology end of the "technology to social solution spectrum," these are further towards the other end. Below are just a few examples of practices that may help inspire your own social solutions.
 
+<br/><br/>
+
 **Lost & Found > Reuse > Donate/Dispose.** Sometimes lost items simply aren't claimed and sometimes it turns out that no one else wants the shirt that you yourself don't want. Some houses I have known have a regular practice of moving objects from Lost & Found to Reuse after some specified time (commonly 1 month) and then periodically taking everything (everything reasonable at least) in reuse to Goodwill or some similar donation site. This provides a natural outlet for objects to leave the house when they are no longer wanted. 
+
+<br/><br/>
 
 **Mugging.** Are people hoarding mugs, dishes, and silverware in their rooms? Perhaps it is time for a mugging! This practice refers to announcing a dedicated time for unburdening your kitchenware sins, then going around to each person's room. If a resident attests that they conducted a sweep of their own room and returned any hoarded items themselves, you move on. Otherwise, you enter the room and retrieve the dishes yourself for washing and return to circulation. Obviously you want to respect your housemates privacy, so don't unilaterally implement mugging. Bring it up at house meeting and make sure everyone is on board first. That said, it can be a useful approach if you house is full of [beverage goblins](https://www.tiktok.com/@kristentheperson/video/7201246552885660974?lang=en) or prone to harboring a [secret shame](https://www.youtube.com/watch?v=7BXgCv0ZkM0). Honestly even the announcement of a planned mugging is often enough to get folks to release their hoard (particularly if there's some late-night opportunities to do so in secret between the announcement and the event).
 
@@ -81,6 +95,8 @@ Labeling and organized storage space can go along way, but they can't do the job
 - We took a photo of each box in the basement and sent them out to the owners. State that you want to keep it in the next two weeks or it will be disposed of.
 
 The key here is to require affirmative action for something to be kept. This shifts the default outcome away from the usual "No one specifically gave permission to get rid of it, so I guess it stays" to "Unless someone actively wants to keep it, we are getting rid of it." This doesn't have to be a binary keep-or-dispose either. Our house did something similar for each kitchen utensils we wanted to go in the jar right next to the stove. Those not specifically claimed during the designated week but deemed to still be occasionally useful were relegated to a nearby drawer, still around but not taking up more valuable real estate.
+
+<br/><br/>
 
 **Regular Tidying.** Particularly in common areas, sometimes you don't need to get rid of stuff, you just need to return objects to their designated homes. For such circumstances, it can be helpful to have a designated chore for tidying particularly high entropy rooms or conducting a walk through of the house. 
 

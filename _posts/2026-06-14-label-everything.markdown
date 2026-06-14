@@ -56,7 +56,7 @@ This final kind of labels are most common in long lasting co-ops. This is partly
 
 Labeling only works if you have places to put stuff, though. And most homes are not built to accommodate any entire co-op. Every co-op I know has had to invest in their own storage solutions. A commonality to many of these solutions is the use of vertical space. This might sound obvious. A bookcase with a single shelf  is just not living up to its potential, nor is a pantry with a single shelf. But lots of folks overlook all of the other vertical space in their environment. Attach hooks to your ceilings, walls, or doors. Put shelves under your worktables! Get a bedframe than enables easy storage underneath! There's a lot of vertical bike storage options out here, from basic hooks to fancy swiveling racks. I know of one co-op that set up a pulley system in a stairwell with particularly high vertical clearance to store their bikes!
 
-<img alt="the pans above and the pots below were taking up **so** much cabinet space" src="/assets/kitchen storage examples.png" width="800" />
+<img alt="the pans above and the pots below were taking up **so** much cabinet space" src="/assets/kitchen-storage-examples.png" width="800" />
 *the pans above and the pots below were taking up* **so** *much cabinet space*
 
 <br/><br/>
